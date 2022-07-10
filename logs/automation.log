@@ -1,0 +1,221 @@
+11:47:29.016 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+11:47:29.020 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+11:47:33.404 [main] INFO  testcases.TC_001_AccountRegistration - Home page is diaplayed
+11:47:33.434 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+11:47:33.520 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+11:47:34.415 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+11:47:34.429 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+11:47:35.258 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+11:47:37.975 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+11:47:38.022 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:44:44.008 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:44:44.016 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:44:52.809 [main] FATAL testcases.TC_001_AccountRegistration - test case failed
+09:45:35.626 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:45:35.639 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:45:45.701 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:45:45.782 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:45:45.868 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:45:48.023 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:45:48.033 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:45:48.758 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:45:52.991 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:45:53.072 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:49:53.063 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:49:53.070 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:49:54.223 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:49:54.252 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:49:54.357 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:49:55.525 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:49:55.552 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:49:56.492 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:49:59.364 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:49:59.408 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:50:01.460 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:50:01.460 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:50:04.976 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:50:04.976 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:50:05.057 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:50:05.858 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:50:05.862 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:50:06.525 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:50:09.620 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:50:09.661 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:51:17.632 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:51:17.766 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:51:20.404 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:51:20.404 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:51:26.444 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:51:26.516 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:51:26.835 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:51:29.164 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:51:29.167 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:51:30.017 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:51:30.984 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:51:30.986 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:51:31.081 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:51:32.576 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:51:32.580 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:51:32.602 [TestNG-tests-1] FATAL testcases.TC_001_AccountRegistration - test case failed
+09:51:33.157 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:51:33.216 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:54:10.169 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:54:10.177 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:54:11.783 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:54:11.784 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:54:20.188 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:54:20.262 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:54:20.373 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:54:21.206 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:54:21.207 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:54:21.339 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:54:22.486 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:54:22.499 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:54:22.961 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:54:22.964 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:54:23.488 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:54:23.948 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:54:26.864 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:54:26.927 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:54:26.993 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:54:27.040 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+09:55:12.321 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:55:12.326 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:55:14.033 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:55:14.036 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:55:17.740 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:55:17.812 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:55:17.941 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:55:18.523 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:55:18.524 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:55:18.541 [TestNG-tests-2] FATAL testcases.TC_001_AccountRegistration - test case failed
+09:55:19.555 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:55:19.563 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:55:19.580 [TestNG-tests-1] FATAL testcases.TC_001_AccountRegistration - test case failed
+09:55:43.757 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+09:55:43.766 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+09:55:46.139 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+09:55:46.174 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+09:55:46.281 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+09:55:46.899 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+09:55:46.902 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+09:55:47.708 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+09:55:50.452 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+09:55:50.502 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+10:01:26.266 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+10:01:26.272 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+10:01:28.480 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+10:01:28.506 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+10:01:28.614 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+10:01:29.336 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+10:01:29.345 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+10:01:30.172 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+10:01:32.879 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+10:01:32.939 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+12:23:17.501 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+12:23:17.508 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+12:23:24.979 [main] FATAL testcases.TC_001_AccountRegistration - test case failed
+12:41:11.135 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+12:41:11.179 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+12:41:19.897 [main] FATAL testcases.TC_001_AccountRegistration - test case failed
+12:43:20.686 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+12:43:20.691 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+12:43:23.547 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+12:43:23.572 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+12:43:23.652 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+12:43:24.332 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+12:43:24.336 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+12:43:25.027 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+12:43:27.796 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+12:43:27.836 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+12:44:55.214 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+12:44:55.219 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+12:44:57.881 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+12:44:57.902 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+12:44:57.993 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+12:44:58.690 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+12:44:58.697 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+12:44:59.360 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+12:44:59.443 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+12:45:09.522 [main] ERROR testcases.TC_001_AccountRegistration - Test case Failed
+12:47:23.857 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+12:47:23.860 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+12:47:26.047 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+12:47:26.080 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+12:47:26.165 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+12:47:26.829 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+12:47:26.837 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+12:47:27.500 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+12:47:27.580 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+12:47:37.622 [main] ERROR testcases.TC_001_AccountRegistration - Test case Failed
+14:25:08.734 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+14:25:08.741 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+14:25:22.138 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+14:25:22.371 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+14:25:22.494 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+14:25:24.548 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+14:25:24.554 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+14:25:25.325 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+14:25:25.427 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+14:25:35.465 [main] ERROR testcases.TC_001_AccountRegistration - Test case Failed
+14:27:59.287 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+14:27:59.331 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+14:28:02.480 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+14:28:02.508 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+14:28:02.577 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+14:28:03.066 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+14:28:03.077 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+14:28:03.708 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+14:28:03.785 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+14:28:10.534 [main] ERROR testcases.TC_001_AccountRegistration - Test case Failed
+14:28:10.556 [main] FATAL testcases.TC_001_AccountRegistration - test case failed
+14:28:44.962 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+14:28:44.967 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+14:28:48.491 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+14:28:48.520 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+14:28:48.595 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+14:28:49.427 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+14:28:49.433 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+14:28:50.078 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+14:28:53.414 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+14:28:53.454 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+15:09:49.242 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+15:09:49.267 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+15:10:16.492 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+15:10:16.544 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+15:10:16.890 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+15:10:18.184 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+15:10:18.193 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+15:10:19.166 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+15:10:22.232 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+15:10:22.544 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+15:11:23.803 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+15:11:23.811 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+15:11:26.874 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+15:11:26.902 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+15:11:26.973 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+15:11:27.915 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+15:11:27.921 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+15:11:28.637 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+15:11:31.670 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+15:11:31.712 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+15:34:29.544 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+15:34:29.556 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+15:34:32.372 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+15:34:32.565 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+15:34:32.652 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+15:34:33.163 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+15:34:33.169 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+15:34:33.863 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+15:34:36.471 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+15:34:36.514 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
+15:45:26.908 [main] INFO  testcases.TC_001_AccountRegistration - TC_001_AccountRegistration Started
+15:45:26.972 [main] INFO  testcases.TC_001_AccountRegistration - Launched URL of application
+15:45:30.264 [main] INFO  testcases.TC_001_AccountRegistration - Home page is displayed
+15:45:30.297 [main] INFO  testcases.TC_001_AccountRegistration - click on my Account
+15:45:30.368 [main] INFO  testcases.TC_001_AccountRegistration - click on Register
+15:45:30.935 [main] INFO  testcases.TC_001_AccountRegistration - Registration Page is displayed
+15:45:30.946 [main] INFO  testcases.TC_001_AccountRegistration - Passed Registration details
+15:45:31.602 [main] INFO  testcases.TC_001_AccountRegistration - Submitted the details for Registration
+15:45:34.260 [main] INFO  testcases.TC_001_AccountRegistration - Capturing confirmation text
+15:45:34.302 [main] INFO  testcases.TC_001_AccountRegistration - Test case Passed
